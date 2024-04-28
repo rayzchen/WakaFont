@@ -123,6 +123,10 @@
       "codepoint": 61782,
       "source": "svg/satellite.svg"
     },
+    "saw": {
+      "codepoint": 61768,
+      "source": "svg/saw.svg"
+    },
     "spikes": {
       "codepoint": 61764,
       "source": "svg/spikes.svg"
